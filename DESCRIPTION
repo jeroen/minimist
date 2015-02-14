@@ -1,0 +1,13 @@
+Package: minimist
+Type: Package
+Title: Parse Argument Options
+Version: 0.1
+Date: 2015-02-14
+Author: Jeroen Ooms, James Halliday
+Maintainer: Jeroen Ooms <jeroen.ooms@stat.ucla.edu>
+Description: A binding to the minimist JavaScript library. This module implements
+    the guts of optimist's argument parser without all the fanciful decoration.
+License: MIT + file LICENSE
+Imports: V8 (>= 0.5)
+URL: https://github.com/jeroenooms/minimist, https://www.npmjs.com/package/minimist
+BugReports: https://github.com/jeroenooms/minimist/issues
